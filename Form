@@ -15,6 +15,8 @@
   			<input type="Email" name="eml"><br><br>
   			<label>Phone number</label>
   			<input type="text" name="phn">
+  			<input type="text" name="phn">
+  			<input type="text" name="phn">
   			<input type="Submit" name="sbt" value="Submit">
   			<input type="reset" name="cancel" value="Cancel">
   		</fieldset>
